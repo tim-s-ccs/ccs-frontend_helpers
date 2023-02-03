@@ -1,6 +1,6 @@
-## [Unreleased]
+## [Released]
 
-## [0.1.0] - 2023-XX-XX
+## [0.1.0.beta.1] - 2023-02-03
 
 Initial release of  Crown Marketplace Utils.
 This release contains view helpers that are used to create GOV.UK and CCS components.
